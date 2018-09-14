@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "mongojs": "*",
+    "multer": "^1.3.1",
+    "nodemailer": "^4.6.8"
+  },
+  "author": "",
+  "license": "ISC"
+}
